@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Luca Belotti
 
-🎯 **Full Stack Developer | R&D Director | Security Enthusiast**
+🎯 **Full Stack Developer | R&D | Security Enthusiast**
 
 I'm a passionate developer with experience in building scalable web applications, automation scripts, AI tools integration, and secure infrastructure. I thrive at the intersection of **code, creativity, and systems thinking** — from interactive AR to backend APIs and machine learning pipelines.
 
@@ -49,7 +49,7 @@ I'm a passionate developer with experience in building scalable web applications
 ### 📫 Let's connect
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/luca-belotti-519a9613b/)  
-- 💼 [Portfolio / Projects](http://linktr.ee/cardinalsur)  
+- 💼 [Portfolio / Projects]()  
 - 🐙 [GitHub](https://github.com/lucab3)  
 
 ---
