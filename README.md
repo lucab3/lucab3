@@ -2,7 +2,7 @@
 
 🎯 **Full Stack Developer | R&D | Security Enthusiast**
 
-I'm a passionate developer with experience in building scalable web applications, automation scripts, AI tools integration, and secure infrastructure. I thrive at the intersection of **code, creativity, and systems thinking** — from interactive AR to backend APIs and machine learning pipelines.
+I'm a developer with experience in building web applications, automation scripts, AI tools integration, and some of infrastructure. I thrive at the intersection of **code, creativity, and systems thinking** — from interactive AR to backend APIs and machine learning pipelines.
 
 ---
 
